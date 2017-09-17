@@ -1,4 +1,4 @@
-(<|\s)(o|O)\S+@\S+(com|org)>?
+(<|\s)(o|O).(\S)*?@.(\S)*?(com|org)>?
 34
 Line 5389: To: outlook.team@enron.com
 Line 10713: To: outlook.team@enron.com
